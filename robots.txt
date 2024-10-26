@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://irixiove.github.io/sitemap_index.irixiove
